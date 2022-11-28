@@ -1,12 +1,35 @@
 # chat-app
 
-<p>Para esse projeto deve-se ter no minimo o PHP 7.2 instalado</p>
-<p>Usou-se PHP e AJAX como principais tecnologias</p>
+<h3>:mega: Sobre o projeto: </h3>
+Esse é um chat-app que envia e recebe mensagens de forma instantânea.
 
-<h2>Objetivos:</h2>
+<h3>:pushpin: Objetivo: </h3>
 <p>Praticar a interação entre PHP e AJAX agilizando o envio de requisições sem a necessidade de dar refresh na página</p>
 
-Imagens do projeto:
+<h3>:computer: Tecnologias usadas: </h3>
+<ol>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>AJAX</li>
+  <li>JQUERY</li>
+  <li>PHP OO</li>
+  <li>SQL</li>
+</ol>
+
+<h3>:dart: Como usar:</h3>
+<ol>
+  <li>PHP 7.2 instaldo</li>
+  <li>Alguns servidor local como o xampp</li>
+</ol>
+
+<h3>:wrench: Funcionalidades: </h3>
+<ol>
+  <li>Cadastro de Usuário</li>
+  <li>Login</li>
+  <li>Envio e recevimento de mensagens</li>
+</ol>
+
+<h3>:camera: Imagens do Projeto:</h3>
 
 Tela de cadastro:
 
