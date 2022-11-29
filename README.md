@@ -27,6 +27,7 @@ Esse é um chat-app que envia e recebe mensagens de forma instantânea.
 <ol>
   <li>PHP 7.2 instaldo</li>
   <li>Alguns servidor local como o xampp</li>
+  <li>Rode o código do arquivo chatapp.sql no seu servidor</li>
 </ol>
 
 <h3>:camera: Imagens do Projeto:</h3>
