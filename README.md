@@ -16,17 +16,17 @@ Esse é um chat-app que envia e recebe mensagens de forma instantânea.
   <li>SQL</li>
 </ol>
 
-<h3>:dart: Como usar:</h3>
-<ol>
-  <li>PHP 7.2 instaldo</li>
-  <li>Alguns servidor local como o xampp</li>
-</ol>
-
 <h3>:wrench: Funcionalidades: </h3>
 <ol>
   <li>Cadastro de Usuário</li>
   <li>Login</li>
   <li>Envio e recevimento de mensagens</li>
+</ol>
+
+<h3>:dart: Como usar:</h3>
+<ol>
+  <li>PHP 7.2 instaldo</li>
+  <li>Alguns servidor local como o xampp</li>
 </ol>
 
 <h3>:camera: Imagens do Projeto:</h3>
